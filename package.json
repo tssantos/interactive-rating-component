@@ -1,10 +1,10 @@
 {
-  "name": "react-ts-boilerplate",
+  "name": "interactive-rating-component",
   "author": {
     "name": "Thiago Santos",
     "email": "tssantos@gmail.com"
   },
-  "homepage": "https://tssantos.github.io/react-ts-boilerplate/",
+  "homepage": "https://tssantos.github.io/interactive-rating-component/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
