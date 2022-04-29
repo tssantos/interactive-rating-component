@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/interactive-rating-component/static/css/main.62609095.chunk.css",
+    "main.js": "/interactive-rating-component/static/js/main.c4c04718.chunk.js",
+    "main.js.map": "/interactive-rating-component/static/js/main.c4c04718.chunk.js.map",
+    "runtime-main.js": "/interactive-rating-component/static/js/runtime-main.ceb57a4f.js",
+    "runtime-main.js.map": "/interactive-rating-component/static/js/runtime-main.ceb57a4f.js.map",
+    "static/js/2.ceace95a.chunk.js": "/interactive-rating-component/static/js/2.ceace95a.chunk.js",
+    "static/js/2.ceace95a.chunk.js.map": "/interactive-rating-component/static/js/2.ceace95a.chunk.js.map",
+    "static/js/3.7030d875.chunk.js": "/interactive-rating-component/static/js/3.7030d875.chunk.js",
+    "static/js/3.7030d875.chunk.js.map": "/interactive-rating-component/static/js/3.7030d875.chunk.js.map",
+    "index.html": "/interactive-rating-component/index.html",
+    "static/css/main.62609095.chunk.css.map": "/interactive-rating-component/static/css/main.62609095.chunk.css.map",
+    "static/js/2.ceace95a.chunk.js.LICENSE.txt": "/interactive-rating-component/static/js/2.ceace95a.chunk.js.LICENSE.txt",
+    "static/media/icon-star.12766a8d.svg": "/interactive-rating-component/static/media/icon-star.12766a8d.svg",
+    "static/media/illustration-thank-you.d74a66b5.svg": "/interactive-rating-component/static/media/illustration-thank-you.d74a66b5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceb57a4f.js",
+    "static/js/2.ceace95a.chunk.js",
+    "static/css/main.62609095.chunk.css",
+    "static/js/main.c4c04718.chunk.js"
+  ]
+}
